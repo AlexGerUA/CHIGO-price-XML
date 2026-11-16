@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2026-11-16 14:56">
+  <shop>
+    <name>CHIGO — рекомендовані роздрібні ціни (РРЦ)</name>
+    <company>CHIGO</company>
+    <url>https://chigo.ua/</url>
+    <currencies>
+      <currency id="UAH" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Побутова серія</category>
+    </categories>
+    <offers>
+      <offer id="CS-35V3G-1B150F">
+        <name>CHIGO CS-35V3G-1B150F DC R32 WiFi Heat Pump</name>
+        <vendor>CHIGO</vendor>
+        <vendorCode>CS-35V3G-1B150F</vendorCode>
+        <model>CS-35V3G-1B150F DC R32 WiFi Heat Pump</model>
+        <price>23399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">Alba - 150</param>
+        <picture>https://product.chigo.ua/files/img/0/07a94366-242d-11f1-ae86-005056a1f464.jpeg</picture>
+        <picture>https://product.chigo.ua/files/img/0/07a94375-242d-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="CS-51V3G-1D150F">
+        <name>CHIGO CS-51V3G-1D150F DC R32 WiFi Heat Pump</name>
+        <vendor>CHIGO</vendor>
+        <vendorCode>CS-51V3G-1D150F</vendorCode>
+        <model>CS-51V3G-1D150F DC R32 WiFi Heat Pump</model>
+        <price>36799</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">Alba - 150</param>
+        <picture>https://product.chigo.ua/files/img/0/07a94368-242d-11f1-ae86-005056a1f464.jpeg</picture>
+        <picture>https://product.chigo.ua/files/img/0/07a94371-242d-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="CS-25V3G-G3A02A">
+        <name>CHIGO CS-25V3G-G3A02A Inverter DC WI-FI</name>
+        <vendor>CHIGO</vendor>
+        <vendorCode>CS-25V3G-G3A02A</vendorCode>
+        <model>CS-25V3G-G3A02A Inverter DC WI-FI</model>
+        <price>15999</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">Gloria - 302</param>
+        <picture>https://product.chigo.ua/files/img/c/c1b7fe48-538e-11f1-ae86-005056a1f464.png</picture>
+        <picture>https://product.chigo.ua/files/img/2/2b341a93-4eab-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="CS-35V3G-G3B02A">
+        <name>CHIGO CS-35V3G-G3B02A Inverter DC WI-FI</name>
+        <vendor>CHIGO</vendor>
+        <vendorCode>CS-35V3G-G3B02A</vendorCode>
+        <model>CS-35V3G-G3B02A Inverter DC WI-FI</model>
+        <price>18799</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">Gloria - 302</param>
+        <picture>https://product.chigo.ua/files/img/c/c1b7fe49-538e-11f1-ae86-005056a1f464.png</picture>
+        <picture>https://product.chigo.ua/files/img/2/2b341a95-4eab-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="CS-51V3G-G3C02A">
+        <name>CHIGO CS-51V3G-G3C02A Inverter DC WI-FI</name>
+        <vendor>CHIGO</vendor>
+        <vendorCode>CS-51V3G-G3C02A</vendorCode>
+        <model>CS-51V3G-G3C02A Inverter DC WI-FI</model>
+        <price>31199</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">Gloria - 302</param>
+        <picture>https://product.chigo.ua/files/img/c/c1b7fe4a-538e-11f1-ae86-005056a1f464.png</picture>
+        <picture>https://product.chigo.ua/files/img/2/2b341a97-4eab-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="CS-70V3G-G3C02A">
+        <name>CHIGO CS-70V3G-G3C02A Inverter DC WI-FI</name>
+        <vendor>CHIGO</vendor>
+        <vendorCode>CS-70V3G-G3C02A</vendorCode>
+        <model>CS-70V3G-G3C02A Inverter DC WI-FI</model>
+        <price>37899</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">Gloria - 302</param>
+        <picture>https://product.chigo.ua/files/img/c/c1b7fe4b-538e-11f1-ae86-005056a1f464.png</picture>
+        <picture>https://product.chigo.ua/files/img/2/2b341a99-4eab-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="CS-25V3G-G3A02A-H">
+        <name>CHIGO CS-25V3G-G3A02A-H DC WiFi Heat Pump</name>
+        <vendor>CHIGO</vendor>
+        <vendorCode>CS-25V3G-G3A02A-H</vendorCode>
+        <model>CS-25V3G-G3A02A-H DC WiFi Heat Pump</model>
+        <price>20699</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">Gloria - 302 H</param>
+        <picture>https://product.chigo.ua/files/img/1/198c3ce1-898a-11f1-ae86-005056a1f464.jpeg</picture>
+        <picture>https://product.chigo.ua/files/img/1/198c3ce4-898a-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="CS-35V3G-G3B02A-H">
+        <name>CHIGO CS-35V3G-G3B02A-H DC WiFi Heat Pump</name>
+        <vendor>CHIGO</vendor>
+        <vendorCode>CS-35V3G-G3B02A-H</vendorCode>
+        <model>CS-35V3G-G3B02A-H DC WiFi Heat Pump</model>
+        <price>23399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">Gloria - 302 H</param>
+        <picture>https://product.chigo.ua/files/img/8/8749a186-d9e1-11f1-ae86-005056a1f464.jpeg</picture>
+        <picture>https://product.chigo.ua/files/img/8/8749a184-d9e1-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="CS-51V3G-G3C02A-H">
+        <name>CHIGO CS-51V3G-G3C02A-H DC WiFi Heat Pump</name>
+        <vendor>CHIGO</vendor>
+        <vendorCode>CS-51V3G-G3C02A-H</vendorCode>
+        <model>CS-51V3G-G3C02A-H DC WiFi Heat Pump</model>
+        <price>36799</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">Gloria - 302 H</param>
+        <picture>https://product.chigo.ua/files/img/8/8749a187-d9e1-11f1-ae86-005056a1f464.jpeg</picture>
+        <picture>https://product.chigo.ua/files/img/8/8749a188-d9e1-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+      <offer id="CS-70V3G-G3C02A-H">
+        <name>CHIGO CS-70V3G-G3C02A-H DC WiFi Heat Pump</name>
+        <vendor>CHIGO</vendor>
+        <vendorCode>CS-70V3G-G3C02A-H</vendorCode>
+        <model>CS-70V3G-G3C02A-H DC WiFi Heat Pump</model>
+        <price>45999</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <param name="Серія">Gloria - 302 H</param>
+        <picture>https://product.chigo.ua/files/img/8/8749a189-d9e1-11f1-ae86-005056a1f464.jpeg</picture>
+        <picture>https://product.chigo.ua/files/img/8/8749a18a-d9e1-11f1-ae86-005056a1f464.jpeg</picture>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
